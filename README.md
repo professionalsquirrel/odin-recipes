@@ -1,1 +1,2 @@
 # odin-recipes
+So this is my attempt at the Odin Project! I'm very excited. I have played around with HTML and CSS before so I will skip content that is already familiar to me. However I am a complete novice when it comes to Javascript so that is the part of the course I am most excited about. I have some previous programming experience but have never worked on a proper project. I hope to end the course feeling confident about creating my own projects.
